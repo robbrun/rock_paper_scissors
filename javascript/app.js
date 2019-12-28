@@ -48,7 +48,7 @@ function lose(userChoice, computerChoice) {
 
 function draw(userChoice, computerChoice) {
     const userChoice_div = document.getElementById(userChoice);
-    result_p.innerHTML = "Your " + userChoice + " is equal to the " + "Computer's " + computerChoice + ". It's a draw! ";
+    result_p.innerHTML = "Your " + userChoice + " matches the " + "Computer's " + computerChoice + ". It's a draw! ";
     userChoice_div.classList.add('gray-glow');
     setTimeout(() => userChoice_div.classList.remove('gray-glow'), 500);
 }

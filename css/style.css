@@ -57,6 +57,7 @@ header {
 }
 
 .result > p {
+    margin: 20px 0;
     text-align: center;
     font-weight: bold;
 }
@@ -85,6 +86,6 @@ header {
     color: white;
     font-weight: bold;
     font-size: 20px;
-    margin-top: 20px 0;
+    margin: 20px 0;
 
 }

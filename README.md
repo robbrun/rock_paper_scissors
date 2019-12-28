@@ -8,6 +8,4 @@ This is my first web broswer based game - my solution to the Rock, Paper, Scisso
 In this project I created a page layout with html, decorating and positioning the divs using css, and creating functional buttons with updated scores output with javascript.
 
 Attribution:
-I extracted the images from here https://commons.wikimedia.org/wiki/File:Rock-paper-scissors.svg
-and they are licensed under CC BY-SA 3.0
-
+Images images are from Pixabay and are freely available under Pixabay License. https://pixabay.com/service/terms/#license
